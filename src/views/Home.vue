@@ -11,8 +11,8 @@ import EchartsContainer from '@/components/EchartsContainer.vue'; // @ is an ali
 
 @Component({
   components: {
-    EchartsContainer
-  }
+    EchartsContainer,
+  },
 })
 export default class Home extends Vue {}
 </script>
